@@ -11,4 +11,4 @@ would look like:
 https://veryshorttextstream.blogspot.com/2016/12/short-stream-communicating-via-very.html?m=1
 
 URL for the blog:
-https://veryahorttextstream.blogspot.com/
+https://veryshorttextstream.blogspot.com/
